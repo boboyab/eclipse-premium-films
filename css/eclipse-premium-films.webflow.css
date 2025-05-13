@@ -1155,11 +1155,6 @@ figcaption {
   display: flex;
 }
 
-.footer-logo {
-  width: 100%;
-  height: 50px;
-}
-
 .footer-description {
   color: var(--color--white);
   margin-top: 30px;
